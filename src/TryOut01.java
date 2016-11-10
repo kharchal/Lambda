@@ -6,6 +6,7 @@ public class TryOut01 {
         Lamda lamda = n -> n + 1;
         int n = lamda.process(5);
         System.out.println(n);
+//
     }
 
 }
